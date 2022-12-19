@@ -1,0 +1,23 @@
+/*** Gestion Des Factures ***/
+
+-> Moi : => ['Janvier', 'Février', 'Mars','Avril', 'Mai', 'Juin', 'Juillet', 'Août', 'Septembre', 'Octobre', 'Novembre', 'Décembre';
+
+-> Date : Aujourd'hui
+
+-> AncienIndex
+
+-> NouvelIndex
+
+-> ConsommerGlobal = (AncienIndex - NouvelIndex)
+
+-> ResteCompteur (
+
+-> Portes : => [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11];
+
+-> Consommér par chaque porte : index_consommer
+
+-> Tarif par chaque porte : ( (index_consommer * prixJirama) / consommerGlobal); 
+
+-> prixJirama;
+
+
